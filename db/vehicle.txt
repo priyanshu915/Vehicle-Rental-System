@@ -1,0 +1,6 @@
+V001|Honda city|car|1500|yes
+V002|splendar|bike|500|yes
+V003|bugati|car|5500|yes
+V004|bwm|car|2500|yes
+V005|ooddy|car|3500|no
+V006|hero splendar|bike|1000|yes
