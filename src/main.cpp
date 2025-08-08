@@ -2,7 +2,6 @@
 #include <vector>
 #include "lib/assets.hpp"
 
-
 class Rental: public Assets {
 private:
 
